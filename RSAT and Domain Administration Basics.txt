@@ -1,0 +1,8 @@
+Even this link lead to and windows only app, unfortunatly samba does lack an way to make the same advanced tasks to the domain.
+For the most simple scenario, webmin can create groups and users, but for more advanced features, it is a must have the RSAT tools (any windows version).
+
+For those wanting to use Sparky AD Server, knowing what AD is is a very basic step, and as well, knowing some basic but sort of advanced things.
+
+This lecture provides an easy start over
+
+https://www.youtube.com/watch?v=nKcrVtvZvpk

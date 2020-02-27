@@ -1,0 +1,57 @@
+Running any level of business is already a no easy task. The last thing you need while you're growing and paying investments is extra complexity, costs and problems in your IT infrastructure – so why turn to Linux?
+
+Well, it could turn out to be a less complex choice.
+
+And, critically, Linux software, generally is free; at least if you don't figure in paid support costs, as free support from the community is also available. That's an overhead ticked off the list.
+
+So what's the best for your growing business? 
+
+SparkyLinux approached this matter with a few criteria in mind. Stability must come first: if you're putting effort into growing, uptime is critical. Solid working infrastructure comes a close second, taking into consideration practical capabilities, which is why you'll find that the server version as a non-desktop version.
+
+Microsoft did its best to usher in a new era of desktop computing with the launch of Windows Server and Active Directory LDAP implementation, but many businesses and individuals are opting out.
+
+Linux-based operating systems, meanwhile, present an increasingly compelling alternative. Benefits include tougher security and superior customization—not to mention that Linux is usually free. On the super computer world, there is no good use for Microsoft OS at all.
+
+If you're willing to make the leap to Linux, SparkyLinux will get you to start with the right OS and software for your growing business.
+With advice on everything from why choosing SparkyLinux distribution and desktop software to easing the transition, this is a small help you get started on the right foot. 
+
+There are numerous flavors, or "distributions," of Linux, each offering a distinct experience for a particular taste or purpose. All are based on the Linux kernel, which is its core OS code. On top of that kernel, distributions may add different desktop environments, applications, and features.
+
+Why SparkyLinux is the right distro?
+
+For a more complete consideration, break down the decision in terms of what you have and what you need. On the “what you have” side, there are three primary considerations for business users: the niche you're in, the hardware you're using, and the Linux skills your staff/IT has.
+
+Your niche:
+Some Linux distributions focus very narrowly on particular industries. Scientific Linux is produced by Fermi National Accelerator Laboratory and the European Organization for Nuclear Research (CERN). Another niche example is EduBuntu, a variation of Canonical's Ubuntu Linux tailored for classrooms and schools, but none have focused on providing an "easy of use" as SparkyLinux for a business.
+
+Your hardware:
+As touchscreen features are being incorporated within OSs, such as Windows 8 and Ubuntu Linux, your hardware can make a big difference. Linux has always been an excellent choice for less-than-cutting-edge hardware. If that's your specific case, you can always rely on the community to help solving any problem.
+If your PCs are very resource-limited, there will be a light client version (non KDE [https://www.kde.org/] based).
+
+Your skills:
+Have you or your employees ever used Linux before? If not, SparkyLinux is friendly for beginners, using KDE [https://www.kde.org/] (or LXQT [https://lxqt.org/] on the light version) as default OS desktop and with our default theme, the look and usability is almost the same as Microsoft OS, so with a little of courage to find where are the same functions, nothing will be missed, in fact, actually, KDE is the home of many usability features, like corner screen division.
+
+As for the “what you need” side of the equation, there are three key considerations: application support, mobile support, and user support (employee hand-holding).
+
+Must-have software: 
+Is there software your business just can't do without, such as Microsoft based or needed? For most, an excellent open-source equivalent is probably already available in the Linux world's, for nearly any piece of software.
+OSalt lists open-source alternatives to popular proprietary software. If you can't locate what you want, find out if the proprietary app you rely on has already been made to run on Debian/Ubuntu Linux.
+
+There is also Wine [https://www.winehq.org/], an "translator" for windows executables to be able to run on Linux, and it's managers like PlayOnLinux [https://www.playonlinux.com/] and Lutris [https://lutris.net/]. One big advantage of Managed Wine approach is that any version of Microsoft OS is accepted, including DOS. Just in case, though, make some tests (bellow) to see what fits best before you go into implementation.
+
+Mobile support:
+If your business relies heavily on mobile devices, pick apps that play well with them, which generally means one of the bigger names. The KDE Connect [https://community.kde.org/KDEConnect] app, for instance, offers clients for Android and have plans for iOS. In the realm of desktop applications, GnuCash offers an Android app, while LibreOffice offers one that enables remote presentations.
+
+User support:
+How much hand-holding would you like for the Linux transition? The majority of the big business can afford paid support. For your growing business, however, it depends on the skills you have in-house, and how much effort you can expend to resolve issues that might come up. Virtually every Linux part has an active online community of developers and users, so checking out the specific software forums for a sense of the kind of help they offer is also an plus. 
+
+Finally, before actually committing to a Linux business environment, take a commitment-free test-drive setting up a virtual LAN with a virtual router and virtual computers [https://vorkbaard.nl/set-up-a-testlab-in-virtualbox-with-a-virtual-lan/] that is isolated from your physical LAN and meant to test setups with multiple computers.
+That way, even if you decide against the OS or any peace of crucial Microsoft OS software ends up not working, you'll have lost nothing and can also decide to isolate that service on a simpler dedicated machine. If you love it, however, then go ahead and install as you tested.
+
+https://vorkbaard.nl/set-up-a-testlab-in-virtualbox-with-a-virtual-lan/
+
+
+====Sources===
+https://www.techradar.com/news/best-linux-distro-small-business
+
+https://www.pcworld.com/article/2030066/the-ultimate-linux-starter-kit-for-small-business.html

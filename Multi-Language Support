@@ -1,0 +1,446 @@
+Sparky OS come with every language avaliable at it's roots Debian repositories.
+
+Take one install for every supported language to be ready to use.
+
+Seamless multiple language users on the same client, meaning one person language of choice does not interfere with other users choices.
+
+As default in english, but can be internationalized to any of these languages:
+
+(This page was generated with data collected on: May 10th, 2020)
+source: https://www.debian.org/international/l10n/po/
+
+    ab — Abkhazian
+    ach — Acoli
+    af — Afrikaans
+    af_ZA — Afrikaans, as spoken in South Africa
+    ak — Akan
+    am — Amharic
+    am_ET — Amharic, as spoken in Ethiopia
+    an — Aragonese
+    an_ES — Aragonese, as spoken in Spain
+    ang — Old English (ca. 450-1100)
+    ang@latin — Old English (ca. 450-1100)
+    api — Apiaká
+    app — Apma
+    apt — Apatani
+    ar — Arabic
+    ar_AR — Arabic, as spoken in Argentina
+    ar_DZ — Arabic, as spoken in Algeria
+    ar_EG — Arabic, as spoken in Egypt
+    ar_MA — Arabic, as spoken in Morocco
+    ar_SA — Arabic, as spoken in Saudi Arabia
+    as — Assamese
+    as_IN — Assamese, as spoken in India
+    ast — Asturian
+    av — Avaric
+    ayc — Southern Aymara
+    az — Azerbaijani
+    az_IR — Azerbaijani, as spoken in Iran, Islamic Republic of
+    bal — Baluchi
+    bar — Bavarian
+    be — Belarusian
+    be_BY — Belarusian, as spoken in Belarus
+    be@latin — Belarusian
+    bem — Bemba (Zambia)
+    be@tarask — Belarusian
+    bg — Bulgarian
+    bg_BG — Bulgarian, as spoken in Bulgaria
+    bi — Bislama
+    bin — Bini
+    bm — Bambara
+    bn — Bengali
+    bn_BD — Bengali, as spoken in Bangladesh
+    bn_IN — Bengali, as spoken in India
+    bo — Tibetan
+    br — Breton
+    br_FR — Breton, as spoken in France
+    brx — Bodo (India)
+    bs — Bosnian
+    bs_BA — Bosnian, as spoken in Bosnia and Herzegovina
+    byn — Bilin
+    ca — Catalan
+    ca_AD — Catalan, as spoken in Andorra
+    ca_ES — Catalan, as spoken in Spain
+    ca_ES@valencia — Catalan, as spoken in Spain
+    ca_FR — Catalan, as spoken in France
+    ca_IT — Catalan, as spoken in Italy
+    cak — Kaqchikel
+    ca@valencia — Catalan
+    ce — Chechen
+    ceb — Cebuano
+    cgg — Chiga
+    ch — Chamorro
+    chr — Cherokee
+    cht — Cholón
+    ckb — Central Kurdish
+    cli — Chakali
+    cmn — Mandarin Chinese
+    co — Corsican
+    cr — Cree
+    crh — Crimean Tatar
+    cs — Czech
+    csb — Kashubian
+    cs_CZ — Czech, as spoken in Czechia
+    cut — Teutila Cuicatec
+    cv — Chuvash
+    cy — Welsh
+    da — Danish
+    da_DK — Danish, as spoken in Denmark
+    dcc — Deccan
+    de — German
+    de_AT — German, as spoken in Austria
+    de_CH — German, as spoken in Switzerland
+    de_DE — German, as spoken in Germany
+    def — Dezfuli
+    de@hebrew — German
+    doc — Northern Dong
+    doi — Dogri (macrolanguage)
+    dsb — Lower Sorbian
+    dv — Dhivehi
+    dz — Dzongkha
+    el — Modern Greek (1453-)
+    el_GR — Modern Greek (1453-), as spoken in Greece
+    en — English
+    en@arabic — English
+    en_AU — English, as spoken in Australia
+    en@boldquot — English
+    en_CA — English, as spoken in Canada
+    en@cyrillic — English
+    en_GB — English, as spoken in United Kingdom
+    en@greek — English
+    en@hebrew — English
+    en_IE — English, as spoken in Ireland
+    en_NZ — English, as spoken in New Zealand
+    en@piglatin — English
+    en@quot — English
+    en@shaw — English
+    en_US — English, as spoken in United States
+    en_ZA — English, as spoken in South Africa
+    eo — Esperanto
+    es — Spanish
+    es_AR — Spanish, as spoken in Argentina
+    es_BO — Spanish, as spoken in Bolivia
+    es_CL — Spanish, as spoken in Chile
+    es_CO — Spanish, as spoken in Colombia
+    es_CR — Spanish, as spoken in Costa Rica
+    es_DO — Spanish, as spoken in Dominican Republic
+    es_EC — Spanish, as spoken in Ecuador
+    es_ES — Spanish, as spoken in Spain
+    es_GT — Spanish, as spoken in Guatemala
+    es_HN — Spanish, as spoken in Honduras
+    es_MX — Spanish, as spoken in Mexico
+    es_NI — Spanish, as spoken in Nicaragua
+    es_PA — Spanish, as spoken in Panama
+    es_PE — Spanish, as spoken in Peru
+    es_PR — Spanish, as spoken in Puerto Rico
+    es_PY — Spanish, as spoken in Paraguay
+    es_SV — Spanish, as spoken in El Salvador
+    es_US — Spanish, as spoken in United States
+    es_UY — Spanish, as spoken in Uruguay
+    es_VE — Spanish, as spoken in Venezuela
+    et — Estonian
+    et_EE — Estonian, as spoken in Estonia
+    eu — Basque
+    eu_ES — Basque, as spoken in Spain
+    fa — Persian
+    fa_AF — Persian, as spoken in Afghanistan
+    fa_IR — Persian, as spoken in Iran, Islamic Republic of
+    ff — Fulah
+    fi — Finnish
+    fi_FI — Finnish, as spoken in Finland
+    fil — Filipino
+    fo — Faroese
+    fr — French
+    fr_BE — French, as spoken in Belgium
+    fr_CA — French, as spoken in Canada
+    fr_CH — French, as spoken in Switzerland
+    fr_FR — French, as spoken in France
+    frp — Arpitan
+    fur — Friulian
+    fy — Western Frisian
+    fy_NL — Western Frisian, as spoken in Netherlands
+    ga — Irish
+    gd — Scottish Gaelic
+    gd_GB — Scottish Gaelic, as spoken in United Kingdom
+    gez — Geez
+    gl — Galician
+    gl_ES — Galician, as spoken in Spain
+    gn — Guarani
+    gos — Gronings
+    gu — Gujarati
+    guc — Wayuu
+    gug — Paraguayan Guaraní
+    gui — Eastern Bolivian Guaraní
+    gu_IN — Gujarati, as spoken in India
+    gv — Manx
+    ha — Hausa
+    haw — Hawaiian
+    he — Hebrew
+    he_IL — Hebrew, as spoken in Israel
+    hi — Hindi
+    hi_IN — Hindi, as spoken in India
+    hne — Chhattisgarhi
+    hr — Croatian
+    hr_HR — Croatian, as spoken in Croatia
+    hrx — Hunsrik
+    hsb — Upper Sorbian
+    ht — Haitian
+    hu — Hungarian
+    hu_HU — Hungarian, as spoken in Hungary
+    hus — Huastec
+    hy — Armenian
+    hy_AM — Armenian, as spoken in Armenia
+    ia — Interlingua (International Auxiliary Language Association)
+    id — Indonesian
+    id_ID — Indonesian, as spoken in Indonesia
+    ie — Interlingue
+    ig — Igbo
+    ii — Sichuan Yi
+    io — Ido
+    is — Icelandic
+    is_IS — Icelandic, as spoken in Iceland
+    it — Italian
+    it_CH — Italian, as spoken in Switzerland
+    it_IT — Italian, as spoken in Italy
+    iu — Inuktitut
+    ja — Japanese
+    ja_JP — Japanese, as spoken in Japan
+    jam — Jamaican Creole English
+    jbo — Lojban
+    jv — Javanese
+    jv_ID — Javanese, as spoken in Indonesia
+    ka — Georgian
+    kab — Kabyle
+    ka_GE — Georgian, as spoken in Georgia
+    kde — Makonde
+    kg — Kongo
+    ki — Kikuyu
+    kk — Kazakh
+    kl — Kalaallisut
+    km — Central Khmer
+    km_KH — Central Khmer, as spoken in Cambodia
+    kn — Kannada
+    kn_IN — Kannada, as spoken in India
+    ko — Korean
+    kok — Konkani (macrolanguage)
+    kok@latin — Konkani (macrolanguage)
+    ko_KR — Korean, as spoken in Korea, Republic of
+    kok@roman — Konkani (macrolanguage)
+    kos — Kosraean
+    kr — Kanuri
+    krl — Karelian
+    ks — Kashmiri
+    ks@aran — Kashmiri
+    ks@deva — Kashmiri
+    ks@devanagari — Kashmiri
+    ksh — Kölsch
+    ks_IN — Kashmiri, as spoken in India
+    ksw — S'gaw Karen
+    ku — Kurdish
+    ku_IQ — Kurdish, as spoken in Iraq
+    kv — Komi
+    kw — Cornish
+    ky — Kirghiz
+    la — Latin
+    lb — Luxembourgish
+    lg — Ganda
+    li — Limburgan
+    ln — Lingala
+    lo — Lao
+    log — Logo
+    lo_LA — Lao, as spoken in Lao People's Democratic Republic
+    lt — Lithuanian
+    ltg — Latgalian
+    lt_LT — Lithuanian, as spoken in Lithuania
+    lv — Latvian
+    lv_LV — Latvian, as spoken in Latvia
+    mai — Maithili
+    mcs — Mambai
+    mg — Malagasy
+    mhr — Eastern Mari
+    mi — Maori
+    miq — Mískito
+    mjw — Karbi
+    mk — Macedonian
+    mk_MK — Macedonian, as spoken in Macedonia, Republic of
+    ml — Malayalam
+    ml_IN — Malayalam, as spoken in India
+    mn — Mongolian
+    mni — Manipuri
+    mni@beng — Manipuri
+    mni@bengali — Manipuri
+    mni@meiteimayek — Manipuri
+    mnk — Mandinka
+    mnw — Mon
+    mr — Marathi
+    ms — Malay (macrolanguage)
+    ms_MY — Malay (macrolanguage), as spoken in Malaysia
+    mt — Maltese
+    mvo — Marovo
+    my — Burmese
+    my_MM — Burmese, as spoken in Myanmar
+    na — Nauru
+    nap — Neapolitan
+    nb — Norwegian Bokmål
+    nb_NO — Norwegian Bokmål, as spoken in Norway
+    nds — Low German
+    ne — Nepali (macrolanguage)
+    ne_NP — Nepali (macrolanguage), as spoken in Nepal
+    nhn — Central Nahuatl
+    nl — Dutch
+    nl_BE — Dutch, as spoken in Belgium
+    nl_NL — Dutch, as spoken in Netherlands
+    nn — Norwegian Nynorsk
+    nn_NO — Norwegian Nynorsk, as spoken in Norway
+    no — Norwegian
+    no_NO — Norwegian, as spoken in Norway
+    nqo — N'Ko
+    nr — South Ndebele
+    nso — Pedi
+    ntp — Northern Tepehuan
+    nv — Navajo
+    oc — Occitan (post 1500)
+    oc_FR — Occitan (post 1500), as spoken in France
+    oj — Ojibwa
+    old — Mochi
+    om — Oromo
+    one — Oneida
+    or — Oriya (macrolanguage)
+    or_IN — Oriya (macrolanguage), as spoken in India
+    os — Ossetian
+    pa — Panjabi
+    pa_IN — Panjabi, as spoken in India
+    pam — Pampanga
+    pap — Papiamento
+    pbs — Central Pame
+    pi — Pali
+    pis — Pijin
+    pl — Polish
+    pl_MF — Polish, as spoken in Saint Martin (French part)
+    pl_PL — Polish, as spoken in Poland
+    pms — Piemontese
+    ps — Pushto
+    pt — Portuguese
+    pt_BR — Portuguese, as spoken in Brazil
+    pt_PT — Portuguese, as spoken in Portugal
+    qu — Quechua
+    quz — Cusco Quechua
+    raw — Rawang
+    res — Reshe
+    rm — Romansh
+    ro — Romanian
+    ro_RO — Romanian, as spoken in Romania
+    ru — Russian
+    rue — Rusyn
+    ru_RU — Russian, as spoken in Russian Federation
+    ru_UA — Russian, as spoken in Ukraine
+    rw — Kinyarwanda
+    sa — Sanskrit
+    sah — Yakut
+    sat — Santali
+    sat@deva — Santali
+    sat@olchiki — Santali
+    sc — Sardinian
+    sco — Scots
+    sd — Sindhi
+    sd@deva — Sindhi
+    sd@devanagari — Sindhi
+    se — Northern Sami
+    se_SE — Northern Sami, as spoken in Sweden
+    shn — Shan
+    shs — Shuswap
+    si — Sinhala
+    si_LK — Sinhala, as spoken in Sri Lanka
+    sk — Slovak
+    sk_SK — Slovak, as spoken in Slovakia
+    sl — Slovenian
+    sl_SI — Slovenian, as spoken in Slovenia
+    sm — Samoan
+    sma — Southern Sami
+    so — Somali
+    sq — Albanian
+    sq_AL — Albanian, as spoken in Albania
+    sr — Serbian
+    sr_BA@latin — Serbian, as spoken in Bosnia and Herzegovina
+    src — Logudorese Sardinian
+    sr@ije — Serbian
+    sr@ijekavian — Serbian
+    sr@ijekavianlatin — Serbian
+    sr@latin — Serbian
+    sr@Latn — Serbian
+    sr_ME — Serbian, as spoken in Montenegro
+    sr_RS — Serbian, as spoken in Serbia
+    sr_RS@cyrillic — Serbian, as spoken in Serbia
+    sr_RS@latin — Serbian, as spoken in Serbia
+    st — Southern Sotho
+    str — Straits Salish
+    su — Sundanese
+    su_ID — Sundanese, as spoken in Indonesia
+    sv — Swedish
+    sv_SE — Swedish, as spoken in Sweden
+    sw — Swahili (macrolanguage)
+    sw_TZ — Swahili (macrolanguage), as spoken in Tanzania
+    szl — Silesian
+    ta — Tamil
+    tag — Tagoi
+    ta_IN — Tamil, as spoken in India
+    ta_LK — Tamil, as spoken in Sri Lanka
+    te — Telugu
+    te_IN — Telugu, as spoken in India
+    te_ST — Telugu, as spoken in Sao Tome and Principe
+    tg — Tajik
+    th — Thai
+    th_TH — Thai, as spoken in Thailand
+    ti — Tigrinya
+    tig — Tigre
+    tk — Turkmen
+    tl — Tagalog
+    tlh — Klingon
+    tl_PH — Tagalog, as spoken in Philippines
+    to — Tonga (Tonga Islands)
+    toc — Coyutla Totonac
+    tpi — Tok Pisin
+    tr — Turkish
+    tr_TR — Turkish, as spoken in Turkey
+    ts — Tsonga
+    tt — Tatar
+    tt@iqtelif — Tatar
+    tt_RU — Tatar, as spoken in Russian Federation
+    tvl — Tuvalu
+    tw — Twi
+    two — Tswapong
+    tyv — Tuvinian
+    tzm — Central Atlas Tamazight
+    udm — Udmurt
+    ug — Uighur
+    ug_CN — Uighur, as spoken in China
+    uk — Ukrainian
+    uk_UA — Ukrainian, as spoken in Ukraine
+    ur — Urdu
+    ur_PK — Urdu, as spoken in Pakistan
+    uz — Uzbek
+    uz@cyrillic — Uzbek
+    uz@Cyrl — Uzbek
+    uz@latin — Uzbek
+    uz@Latn — Uzbek
+    ve — Venda
+    vec — Venetian
+    vi — Vietnamese
+    vi_VI — Vietnamese, as spoken in Virgin Islands, U.S.
+    vi_VN — Vietnamese, as spoken in Vietnam
+    vls — Vlaams
+    wa — Walloon
+    wae — Walser
+    wal — Wolaytta
+    wo — Wolof
+    xh — Xhosa
+    xml — Malaysian Sign Language
+    yi — Yiddish
+    yo — Yoruba
+    zam — Miahuatlán Zapotec
+    zh — Chinese
+    zh_CN — Chinese, as spoken in China
+    zh_HK — Chinese, as spoken in Hong Kong
+    zh_TW — Chinese, as spoken in Taiwan
+    zu — Zulu
+    zu_ZA — Zulu, as spoken in South Africa

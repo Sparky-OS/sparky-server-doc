@@ -1,0 +1,37 @@
+{
+  "title": "sparky-server-doc: documentation of the SparkyLinux small-business server",
+  "description": "Documentation and notes for the SparkyLinux small-business server and its Active Directory setup.",
+  "creators": [
+    {
+      "name": "Ramos, Daniel Campos",
+      "orcid": "0009-0001-4546-8673"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Pijanowski, Paweł",
+      "affiliation": "SparkyLinux",
+      "type": "ProjectLeader"
+    }
+  ],
+  "license": "gpl-3.0-or-later",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "access_right": "open",
+  "keywords": [
+    "SparkyLinux",
+    "Debian",
+    "small-business server",
+    "Bash",
+    "documentation",
+    "Active Directory",
+    "Samba"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://sparkylinux.org/",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ]
+}

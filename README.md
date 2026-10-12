@@ -1,5 +1,7 @@
 # SparkyLinux Small Business Server
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23309040.svg)](https://doi.org/10.5281/zenodo.23309040)
+
 This repository contains the documentation for the SparkyLinux Small Business Server, a Debian-based Linux distribution designed to be a lightweight, and customizable server solution for small businesses.
 
 ## Why SparkyLinux for Small Business?

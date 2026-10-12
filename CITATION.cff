@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: dataset
+title: "sparky-server-doc: documentation of the SparkyLinux small-business server"
+abstract: "Documentation and notes for the SparkyLinux small-business server and its Active Directory setup."
+authors:
+  - family-names: "Ramos"
+    given-names: "Daniel Campos"
+    orcid: "https://orcid.org/0009-0001-4546-8673"
+license: GPL-3.0-or-later
+repository-code: "https://github.com/Sparky-OS/sparky-server-doc"
+keywords:
+  - "SparkyLinux"
+  - "Debian"
+  - "small-business server"
+  - "Bash"
+  - "documentation"
+  - "Active Directory"
+  - "Samba"
